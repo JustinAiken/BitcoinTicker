@@ -9,10 +9,11 @@
         1 - Mt.Gox
         2 - Bitfloor
         3 - Bitstamp
+        4 - Bitcoinaverage
 
     */
 
-    "exchange": 1,
+    "exchange": 4,
 
     /*
 
